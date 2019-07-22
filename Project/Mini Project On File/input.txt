@@ -1,0 +1,35 @@
+BUET 1
+KUET 2
+SUST 3
+RUET 4
+CUET 5
+1 C Ritchie
+2 C++ Schield 
+3 Java Schield
+4 Algorithm Coreman
+5 Discrete Rosen
+6 python Lutz
+7 Concrete Knuth
+8 Database Ullman
+9 Compiler Ullman
+10 AI Knight
+1 Shakib
+2 Tamim
+3 Shamsur
+4 Mominul
+5 Mushfiq
+6 Nayeem
+7 Anamul
+8 Gazi
+9 Mahmudullah
+10 Rubel
+11 Mashrafee
+12 Razzak
+13 Zia
+14 Zonaid
+15 Sunny
+16 Shafiul
+17 Imrul
+18 Reza
+19 Johrul
+20 Alamin
